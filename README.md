@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rashtrakoff" target="blank"><img src="https://img.shields.io/twitter/follow/rashtrakoff?logo=twitter&style=for-the-badge" alt="rashtrakoff" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Solidity, Backend Dev**
+- 🌱 I’m currently learning **Solidity Assembly, Backend Dev**
 
 - 💬 Ask me about **Solidity smart contracts**
 
