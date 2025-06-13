@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay Vemuri</h1>
-<h3 align="center">A passionate blockchain app dev from India</h3>
+<h3 align="center">!Smart contract developer (solidity)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashtrakoff&label=Profile%20views&color=0e75b6&style=flat" alt="rashtrakoff" /> </p>
 
@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rashtrakoff" target="blank"><img src="https://img.shields.io/twitter/follow/rashtrakoff?logo=twitter&style=for-the-badge" alt="rashtrakoff" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity Assembly, Backend Dev**
+- 💬 Ask me about **Asset management protocols**
 
-- 💬 Ask me about **Solidity smart contracts**
+- 📫 How to reach me **@rashtrakoff (X.com)**
 
-- 📫 How to reach me **rashtrakoff@pm.me**
-
-- ⚡ Fun fact **I love playing and watching football. GGMU!**
+- ⚡ Fun fact **Football is my life (when not working ofc).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
